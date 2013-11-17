@@ -1,2 +1,3 @@
 Original text
 First added line
+This should be the 4th line
