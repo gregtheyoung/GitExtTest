@@ -1,2 +1,3 @@
 Original text
 First added line
+Changing - after a branch was created
