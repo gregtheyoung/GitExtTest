@@ -2,3 +2,4 @@ Original text
 First added line
 Changing - after a branch was created
 This should be the 4th line
+And a 5th line
