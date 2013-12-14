@@ -5,5 +5,8 @@ This should be the 4th line
 And a 5th line
 YAL
 A different way
+<<<<<<< HEAD
 From EC2
+=======
 Added on gumby
+>>>>>>> eb7c2eee3c832cc52b4a8358e038151e26a82443
